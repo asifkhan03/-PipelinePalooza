@@ -1,0 +1,9 @@
+/root/PipelinePalooza/src/main/java/com/javaproject/beans/ErrorMessage.java
+/root/PipelinePalooza/src/main/java/com/javaproject/controllers/HomeController.java
+/root/PipelinePalooza/src/main/java/com/javaproject/DatabaseServiceProjectApplication.java
+/root/PipelinePalooza/src/main/java/com/javaproject/security/SecurityConfig.java
+/root/PipelinePalooza/src/main/java/com/javaproject/controllers/BoardGameController.java
+/root/PipelinePalooza/src/main/java/com/javaproject/beans/BoardGame.java
+/root/PipelinePalooza/src/main/java/com/javaproject/security/LoggingAccessDeniedHandler.java
+/root/PipelinePalooza/src/main/java/com/javaproject/beans/Review.java
+/root/PipelinePalooza/src/main/java/com/javaproject/database/DatabaseAccess.java
